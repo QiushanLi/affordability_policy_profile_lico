@@ -1,0 +1,25 @@
+﻿HouseholdType,Begin,End,Food,Shelter,"Water, fuel, and electricity",Transportation,"Other expenses"
+One Person Household,0,30000,0.136,0.23,0.08,0.185,0.37
+One Person Household,30000,60000,0.148,0.288,0.065,0.178,0.32
+One Person Household,60000,90000,0.142,0.264,0.062,0.181,0.351
+One Person Household,90000,150000,0.112,0.322,0.051,0.139,0.375
+Couples Without Children,0,30000,0,0,0,0,0
+Couples Without Children,30000,60000,0.188,0.244,0.098,0.152,0.317
+Couples Without Children,60000,90000,0.176,0.197,0.067,0.191,0.369
+Couples Without Children,90000,150000,0.166,0.212,0.058,0.213,0.352
+Couples With Children,0,30000,0,0,0,0,0
+Couples With Children,30000,60000,0,0,0,0,0
+Couples With Children,60000,90000,0.168,0.239,0.067,0.22,0.306
+Couples With Children,90000,150000,0.16,0.213,0.058,0.215,0.354
+Lone Parent Household,0,30000,0,0,0,0,0
+Lone Parent Household,30000,60000,0,0,0,0,0
+Lone Parent Household,60000,90000,0,0,0,0,0
+Lone Parent Household,90000,150000,0,0,0,0,0
+Single Senior Household,0,30000,0.18,0.3,0.077,0.146,0.297
+Single Senior Household,30000,60000,0.172,0.257,0.075,0.154,0.342
+Single Senior Household,60000,90000,0.152,0.254,0.085,0.159,0.35
+Single Senior Household,90000,150000,0.141,0.311,0.055,0.163,0.33
+Senior Couple Household,0,30000,0,0,0,0,0
+Senior Couple Household,30000,60000,0.233,0.214,0.08,0.162,0.311
+Senior Couple Household,60000,90000,0.175,0.172,0.07,0.232,0.351
+Senior Couple Household,90000,150000,0.173,0.205,0.061,0.189,0.372
