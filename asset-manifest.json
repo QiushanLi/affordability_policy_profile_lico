@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/affordability_policy_profile_lico/static/css/main.15307e4f.css",
-    "main.js": "/affordability_policy_profile_lico/static/js/main.1b7a4a3d.js",
+    "main.js": "/affordability_policy_profile_lico/static/js/main.53c019e4.js",
     "static/js/453.9e9bed8d.chunk.js": "/affordability_policy_profile_lico/static/js/453.9e9bed8d.chunk.js",
     "static/media/LICO.csv": "/affordability_policy_profile_lico/static/media/LICO.4a414e14db6299ce19e5.csv",
     "static/media/Expenditure_Pattern_All_Households_by_Household_Type_and_Income.csv": "/affordability_policy_profile_lico/static/media/Expenditure_Pattern_All_Households_by_Household_Type_and_Income.e6e39ba67020dd8f3549.csv",
@@ -9,11 +9,11 @@
     "static/media/Expenditure_Pattern_All_Households_by_Household_Type.csv": "/affordability_policy_profile_lico/static/media/Expenditure_Pattern_All_Households_by_Household_Type.da787f654b0d21abd45e.csv",
     "static/media/Expenditure_Pattern_All_Households.csv": "/affordability_policy_profile_lico/static/media/Expenditure_Pattern_All_Households.35d5bc5c1a3e4d3bf739.csv",
     "main.15307e4f.css.map": "/affordability_policy_profile_lico/static/css/main.15307e4f.css.map",
-    "main.1b7a4a3d.js.map": "/affordability_policy_profile_lico/static/js/main.1b7a4a3d.js.map",
+    "main.53c019e4.js.map": "/affordability_policy_profile_lico/static/js/main.53c019e4.js.map",
     "453.9e9bed8d.chunk.js.map": "/affordability_policy_profile_lico/static/js/453.9e9bed8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15307e4f.css",
-    "static/js/main.1b7a4a3d.js"
+    "static/js/main.53c019e4.js"
   ]
 }
